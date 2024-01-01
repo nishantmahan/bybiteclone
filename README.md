@@ -1,1 +1,1 @@
-# bybiteclone
+In the NFT realm, the wallet accumulated 6 Liberatus Omnibus NFTs, selling all but 1. Additionally, it acquired a name using zkNS, contributing to a total wallet volume close to $1000, primarily achieved through bridging with the ZkSync Era Portal and Orbiter Finance.
